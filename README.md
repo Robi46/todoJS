@@ -1,1 +1,1 @@
-# complete-login-register-form-with-email-verification
+# Complete login register form with email verification
